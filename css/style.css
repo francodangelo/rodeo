@@ -1032,7 +1032,7 @@ a:hover, span:hover {
 /* ====================== [ End Text Animation & Images ] ====================== */
 /* ====================== [ Start Cursor Style ] ====================== */
 body {
-  cursor: none;
+  /* cursor: none; */
 }
 
 .mouse-cursor {
@@ -1603,7 +1603,7 @@ body {
   cursor: pointer;
 }
 .navbar .logo {
-  width: 130px;
+  width: 170px;
 }
 .navbar.light .navbar-nav .nav-link {
   color: #0c0f16;
